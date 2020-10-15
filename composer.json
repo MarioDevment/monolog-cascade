@@ -1,5 +1,5 @@
 {
-    "name": "mariodevment/monolog-cascade",
+    "name": "opok/monolog-cascade",
     "license": "MIT",
     "type": "library",
     "description": "Monolog extension to configure multiple loggers in the blink of an eye and access them from anywhere",
@@ -40,7 +40,7 @@
     "prefer-stable": true,
     "extra": {
         "branch-alias": {
-            "dev-master": "0.5.x-dev"
+            "dev-master": "0.6.x-dev"
         }
     }
 }
